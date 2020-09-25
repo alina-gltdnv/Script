@@ -1,0 +1,4 @@
+"<CheckRq><requestID>7e34017b-9a5e-425b-a233-da37f0d5246c</requestID><payerName>Jones Karianne "
+"Bernhard</payerName><isAddressEquals>False</isAddressEquals><regAddress>1 Swarcliffe Road, Har"
+"rogate</regAddress><resAddress>1 Cleasby Close, Westlea</resAddress><transAmount>21217</transA"
+"mount><currency>RUB</currency></CheckRq>"

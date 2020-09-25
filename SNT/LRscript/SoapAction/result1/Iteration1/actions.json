@@ -1,0 +1,22 @@
+[
+    {
+        "actionName": "Actions",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: post_query.exe",
+                "infFile": "t1.inf",
+                "time": 1600949461062
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Transfer",
+                "rawStartTime": 1600949460760,
+                "rawEndTime": 1600949461062,
+                "thinkTime": 0.0,
+                "wastedTime": 0.24587082862854005
+            }
+        ]
+    }
+]

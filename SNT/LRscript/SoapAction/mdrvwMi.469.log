@@ -1,0 +1,180 @@
+Notify: search current JDK in Windows registry at (SOFTWARE\Wow6432Node\JavaSoft\Java Development Kit)	[MsgId: MMSG-22196]	[MsgId: MMSG-22986]
+Notify: search current JDK in Windows registry at(SOFTWARE\JavaSoft\Java Development Kit)	[MsgId: MMSG-22198]	[MsgId: MMSG-22986]
+Notify: search in JAVA_HOME	[MsgId: MMSG-22195]	[MsgId: MMSG-22986]
+Notify: JDK found at C:/Program Files/Java/jdk8u265-full	[MsgId: MMSG-22192]	[MsgId: MMSG-22986]
+Notify: JVMArgs.log is created here: C:\Users\User\Documents\VuGen\Scripts\SoapAction	[MsgId: MMSG-22986]
+Start auto log messages stack - Iteration 13497.	[MsgId: MMSG-10545]
+Actions.java(22): Notify: Next row for parameter middlename = 2008 [table  = middlename].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "middlename" =  "Hegmann"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter lastname = 2008 [table  = lastname].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "lastname" =  "Tania"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter addressreg = 2008 [table  = addressreg].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "addressreg" =  "Flat C, 75 Eaton Square, London"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Parameter Substitution: parameter "randamount" =  "98067"	[MsgId: MMSG-13992]
+web_reg_save_param started  	[MsgId: MMSG-26355]
+Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Actions.java(22): Notify: Transaction "Transfer" started.	[MsgId: MMSG-16999]
+Actions.java(22): Notify: Parameter Substitution: parameter "url" =  "http://localhost:8080/WebApp/AppServlet"	[MsgId: MMSG-13992]
+web_custom_request("post_query.exe") started  	[MsgId: MMSG-26355]
+t=35502ms: Connecting [0] to host 127.0.0.1:8080  	[MsgId: MMSG-26000]
+Error -27792: Failed to connect to server "localhost:8080": [10048] Address already in use
+Try changing the registry value 
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\TcpTimedWaitDelay to 30
+and HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\MaxUserPort to 65534
+and rebooting the machine
+See the readme.doc file for more information  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 13857.	[MsgId: MMSG-10545]
+Actions.java(22): Notify: Next row for parameter middlename = 8377 [table  = middlename].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "middlename" =  "Murphy"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter lastname = 8377 [table  = lastname].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "lastname" =  "Geo"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter addressreg = 8377 [table  = addressreg].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "addressreg" =  "3 Marylebone Walk, Scartho Top"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Parameter Substitution: parameter "randamount" =  "30490"	[MsgId: MMSG-13992]
+web_reg_save_param started  	[MsgId: MMSG-26355]
+Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Actions.java(22): Notify: Transaction "Transfer" started.	[MsgId: MMSG-16999]
+Actions.java(22): Notify: Parameter Substitution: parameter "url" =  "http://localhost:8080/WebApp/AppServlet"	[MsgId: MMSG-13992]
+web_custom_request("post_query.exe") started  	[MsgId: MMSG-26355]
+t=35515ms: Connecting [0] to host 127.0.0.1:8080  	[MsgId: MMSG-26000]
+Error -27792: Failed to connect to server "localhost:8080": [10048] Address already in use
+Try changing the registry value 
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\TcpTimedWaitDelay to 30
+and HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\MaxUserPort to 65534
+and rebooting the machine
+See the readme.doc file for more information  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 13959.	[MsgId: MMSG-10545]
+Actions.java(22): Notify: Next row for parameter middlename = 4220 [table  = middlename].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "middlename" =  "Sean"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter lastname = 4220 [table  = lastname].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "lastname" =  "Edwina"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter addressreg = 4220 [table  = addressreg].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "addressreg" =  "9 Langbar Close, Leeds"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Parameter Substitution: parameter "randamount" =  "73149"	[MsgId: MMSG-13992]
+web_reg_save_param started  	[MsgId: MMSG-26355]
+Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Actions.java(22): Notify: Transaction "Transfer" started.	[MsgId: MMSG-16999]
+Actions.java(22): Notify: Parameter Substitution: parameter "url" =  "http://localhost:8080/WebApp/AppServlet"	[MsgId: MMSG-13992]
+web_custom_request("post_query.exe") started  	[MsgId: MMSG-26355]
+t=35515ms: Connecting [0] to host 127.0.0.1:8080  	[MsgId: MMSG-26000]
+Error -27792: Failed to connect to server "localhost:8080": [10048] Address already in use
+Try changing the registry value 
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\TcpTimedWaitDelay to 30
+and HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\MaxUserPort to 65534
+and rebooting the machine
+See the readme.doc file for more information  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 13959.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 13497.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 13857.	[MsgId: MMSG-10545]
+t=35532ms: Closed connection [0] to localhost:8080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=35522ms: Closed connection [0] to localhost:8080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Start auto log messages stack - Iteration 12956.	[MsgId: MMSG-10545]
+t=35530ms: Closed connection [0] to localhost:8080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Error -26377: No match found for the requested parameter "Final". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+Error -26377: No match found for the requested parameter "Final". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+Error -26377: No match found for the requested parameter "Final". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+End auto log messages stack.	[MsgId: MMSG-10544]
+End auto log messages stack.	[MsgId: MMSG-10544]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+
+
+
+
+Start auto log messages stack - Iteration 13497.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 13959.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 13857.	[MsgId: MMSG-10545]
+Actions.java(22): Notify: Saving Parameter "Final = ".	[MsgId: MMSG-13798]
+Actions.java(22): Notify: Saving Parameter "Final = ".	[MsgId: MMSG-13798]
+Actions.java(22): Notify: Saving Parameter "Final = ".	[MsgId: MMSG-13798]
+Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+Actions.java(22): Notify: Next row for parameter middlename = 1800 [table  = middlename].	[MsgId: MMSG-13876]
+End auto log messages stack.	[MsgId: MMSG-10544]
+End auto log messages stack.	[MsgId: MMSG-10544]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+
+
+
+
+Actions.java(22): Notify: Parameter Substitution: parameter "middlename" =  "Buckridge"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter lastname = 1800 [table  = lastname].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "lastname" =  "Dustin"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter addressreg = 1800 [table  = addressreg].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "addressreg" =  "22B Hill View, Buckland"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Parameter Substitution: parameter "randamount" =  "477"	[MsgId: MMSG-13992]
+web_reg_save_param started  	[MsgId: MMSG-26355]
+Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Actions.java(22): Notify: Transaction "Transfer" started.	[MsgId: MMSG-16999]
+Actions.java(22): Notify: Parameter Substitution: parameter "url" =  "http://localhost:8080/WebApp/AppServlet"	[MsgId: MMSG-13992]
+web_custom_request("post_query.exe") started  	[MsgId: MMSG-26355]
+t=35515ms: Connecting [0] to host 127.0.0.1:8080  	[MsgId: MMSG-26000]
+Error -27792: Failed to connect to server "localhost:8080": [10048] Address already in use
+Try changing the registry value 
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\TcpTimedWaitDelay to 30
+and HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\MaxUserPort to 65534
+and rebooting the machine
+See the readme.doc file for more information  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 12956.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 12126.	[MsgId: MMSG-10545]
+t=35535ms: Closed connection [0] to localhost:8080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Error -26377: No match found for the requested parameter "Final". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 12956.	[MsgId: MMSG-10545]
+Actions.java(22): Notify: Saving Parameter "Final = ".	[MsgId: MMSG-13798]
+Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Actions.java(22): Notify: Next row for parameter middlename = 516 [table  = middlename].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "middlename" =  "Raquel"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter lastname = 516 [table  = lastname].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "lastname" =  "Heaney"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Next row for parameter addressreg = 516 [table  = addressreg].	[MsgId: MMSG-13876]
+Actions.java(22): Notify: Parameter Substitution: parameter "addressreg" =  "Highview, Broadway Road, Windlesham"	[MsgId: MMSG-13992]
+Actions.java(22): Notify: Parameter Substitution: parameter "randamount" =  "51702"	[MsgId: MMSG-13992]
+web_reg_save_param started  	[MsgId: MMSG-26355]
+Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Actions.java(22): Notify: Transaction "Transfer" started.	[MsgId: MMSG-16999]
+Actions.java(22): Notify: Parameter Substitution: parameter "url" =  "http://localhost:8080/WebApp/AppServlet"	[MsgId: MMSG-13992]
+web_custom_request("post_query.exe") started  	[MsgId: MMSG-26355]
+t=35534ms: Connecting [0] to host 127.0.0.1:8080  	[MsgId: MMSG-26000]
+Error -27792: Failed to connect to server "localhost:8080": [10048] Address already in use
+Try changing the registry value 
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\TcpTimedWaitDelay to 30
+and HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\tcpip\Parameters\MaxUserPort to 65534
+and rebooting the machine
+See the readme.doc file for more information  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 12126.	[MsgId: MMSG-10545]
+t=35546ms: Closed connection [0] to localhost:8080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Error -26377: No match found for the requested parameter "Final". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 12126.	[MsgId: MMSG-10545]
+Actions.java(22): Notify: Saving Parameter "Final = ".	[MsgId: MMSG-13798]
+Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

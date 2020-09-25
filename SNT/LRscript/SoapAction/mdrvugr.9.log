@@ -1,0 +1,5 @@
+Notify: search current JDK in Windows registry at (SOFTWARE\Wow6432Node\JavaSoft\Java Development Kit)	[MsgId: MMSG-22196]	[MsgId: MMSG-22986]
+Notify: search current JDK in Windows registry at(SOFTWARE\JavaSoft\Java Development Kit)	[MsgId: MMSG-22198]	[MsgId: MMSG-22986]
+Notify: search in JAVA_HOME	[MsgId: MMSG-22195]	[MsgId: MMSG-22986]
+Notify: JDK found at C:/Program Files/Java/jdk8u265-full	[MsgId: MMSG-22192]	[MsgId: MMSG-22986]
+Notify: JVMArgs.log is created here: C:\Users\User\Documents\VuGen\Scripts\SoapAction	[MsgId: MMSG-22986]

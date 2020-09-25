@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+<soap:Body>
+	<CheckRs>
+		<requestID>String</requestID>
+		<result>String</result>
+	</CheckRs>
+</soap:Body>
+</soap:Envelope>

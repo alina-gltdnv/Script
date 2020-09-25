@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+<soap:Body>
+	<CheckRq>
+		<requestID>String</requestID>
+		<payerName>String</payerName>
+		<isAddressEquals>boolean</isAddressEquals>
+		<regAddress>String</regAddress>
+		<resAddress>String</resAddress>
+		<transAmount>int</transAmount>
+		<currency>String</currency>
+	</CheckRq>
+</soap:Body>
+</soap:Envelope>

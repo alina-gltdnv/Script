@@ -1,6 +1,0 @@
-JVM path: C:/Program Files/Java/jdk8u265-full/jre/bin/server/jvm.dll
-JVM options: 
--Dmdrv.launcher=1
--Xverify:none
--Djava.security.policy=C:\Program Files (x86)\Micro Focus\LoadRunner/classes/security/recorder.policy
--Djava.class.path=C:\Users\User\Documents\VuGen\Scripts\JavaHTTP3\;C:\Program Files (x86)\Micro Focus\LoadRunner/classes;C:\Program Files (x86)\Micro Focus\LoadRunner/classes/srv;C:\Program Files (x86)\Micro Focus\LoadRunner/classes/srv/additional_classes;;C:\Program Files (x86)\Micro Focus\LoadRunner/lib/xstream-1.4.10.jar;C:\Program Files (x86)\Micro Focus\LoadRunner/lib/xpp3-1.1.4c.jar;C:\Program Files (x86)\Micro Focus\LoadRunner/lib/common-java-rr.jar;C:\Users\User\Documents\NetBeansProjects\LibraryTest\dist\LibraryTest.jar;;;;
